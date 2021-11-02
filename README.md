@@ -1,1 +1,1 @@
-# rngBot
+# jmgRNG
