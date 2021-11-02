@@ -1,0 +1,23 @@
+{
+  "name": "rngbot",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gvjordan/rngBot.git"
+  },
+  "author": "GvJordan",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/gvjordan/rngBot/issues"
+  },
+  "homepage": "https://github.com/gvjordan/rngBot#readme",
+  "dependencies": {
+    "discord.js": "12.5.1",
+    "seeded-rand": "^2.0.1"
+  }
+}
